@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nombre": "Nueva York",
+        "codigo_aeropuerto": "JFK",
+        "pais": "Estados Unidos",
+        "ciudad": "Nueva York",
+        "descripcion": "La Gran Manzana, ciudad que nunca duerme."
+    },
+    {
+        "id": 2,
+        "nombre": "Los Ángeles",
+        "codigo_aeropuerto": "LAX",
+        "pais": "Estados Unidos",
+        "ciudad": "Los Ángeles",
+        "descripcion": "La ciudad de los sueños."
+    },
+    {
+        "id": 3,
+        "nombre": "Chicago",
+        "codigo_aeropuerto": "ORD",
+        "pais": "Estados Unidos",
+        "ciudad": "Chicago",
+        "descripcion": "La Ciudad de los Vientos."
+    },
+    {
+        "id": 4,
+        "nombre": "París",
+        "codigo_aeropuerto": "CDG",
+        "pais": "Francia",
+        "ciudad": "París",
+        "descripcion": "La Ciudad del Amor."
+    },
+    {
+        "id": 5,
+        "nombre": "Tokio",
+        "codigo_aeropuerto": "HND",
+        "pais": "Japón",
+        "ciudad": "Tokio",
+        "descripcion": "La Ciudad Electrónica."
+    },
+    {
+        "id": 6,
+        "nombre": "Londres",
+        "codigo_aeropuerto": "LHR",
+        "pais": "Reino Unido",
+        "ciudad": "Londres",
+        "descripcion": "La Ciudad de la Realeza."
+    },
+    {
+        "id": 7,
+        "nombre": "Sídney",
+        "codigo_aeropuerto": "SYD",
+        "pais": "Australia",
+        "ciudad": "Sídney",
+        "descripcion": "La Ciudad de las Playas."
+    },
+    {
+        "id": 8,
+        "nombre": "Roma",
+        "codigo_aeropuerto": "FCO",
+        "pais": "Italia",
+        "ciudad": "Roma",
+        "descripcion": "La Ciudad Eterna."
+    },
+    {
+        "id": 9,
+        "nombre": "Río de Janeiro",
+        "codigo_aeropuerto": "GIG",
+        "pais": "Brasil",
+        "ciudad": "Río de Janeiro",
+        "descripcion": "La Ciudad Maravillosa."
+    },
+    {
+        "id": 10,
+        "nombre": "Buenos Aires",
+        "codigo_aeropuerto": "AEP",
+        "pais": "Argentina",
+        "ciudad": "Ciudad autonoma de Buenos Aires",
+        "descripcion": "La ciudad de la furia."
+    }
+]
